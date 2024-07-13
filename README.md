@@ -4,6 +4,7 @@ Introduction:
 “Face the Future” is not just a project; it’s a transformative journey towards reimagining attendance in education. This initiative is set to innovate and streamline the way teachers engage with attendance systems, paving the way for a new era of digital accountability.
 
 **The Challenge:**<br>
+
 Attendance tracking is a fundamental aspect of educational institutions. However, traditional manual methods are time-consuming, error-prone, and often lead to inefficiencies. The proposed solution leverages facial recognition technology to automate attendance marking, providing real-time data and enhancing accountability.<br>
 **The Solution:**<br>
 The Cognitive Attendance System allows teachers to mark their attendance simply by facing a camera. Here’s how it works:<br>
@@ -11,6 +12,8 @@ The Cognitive Attendance System allows teachers to mark their attendance simply 
 1.Facial Feature Capture: When a student faces the camera, the system captures facial features.<br>
 2.Matching with Pre-Registered Data: The captured features are matched with pre-registered data  to identify the student.<br>
 3.Automated Attendance Recording: Upon successful identification, the system records attendance automatically.<br>
+
+
 ![image](https://github.com/user-attachments/assets/60db96ae-8d13-43fc-a673-3645bd7e10c9)
 
 **Key Merits:**<br>
