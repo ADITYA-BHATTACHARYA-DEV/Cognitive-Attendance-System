@@ -6,7 +6,9 @@ Introduction:
 **The Challenge:**<br>
 
 Attendance tracking is a fundamental aspect of educational institutions. However, traditional manual methods are time-consuming, error-prone, and often lead to inefficiencies. The proposed solution leverages facial recognition technology to automate attendance marking, providing real-time data and enhancing accountability.<br>
+
 **The Solution:**<br>
+
 The Cognitive Attendance System allows teachers to mark their attendance simply by facing a camera. Here’s how it works:<br>
 
 1.Facial Feature Capture: When a student faces the camera, the system captures facial features.<br>
@@ -17,17 +19,22 @@ The Cognitive Attendance System allows teachers to mark their attendance simply 
 ![image](https://github.com/user-attachments/assets/60db96ae-8d13-43fc-a673-3645bd7e10c9)
 
 **Key Merits:**<br>
+
 ●Efficiency: Automates attendance, allowing teachers to focus on teaching.<br>
 ●Accuracy: Minimizes errors with precise identification.<br>
 ●Real-Time Data: Offers timely tracking of attendance.<br>
 ●Security: Prevents proxy attendance.<br>
-#Challenges and Considerations<br>
+
+**Challenges and Considerations:**<br>
+
 ●Privacy: Ensures data protection and consent.<br>
 ●Environmental Factors: Requires optimal lighting and camera quality.<br>
 ●False Positives/Negatives: Needs fine-tuning to avoid recognition errors.<br>
 ●Cost: Seeks affordability in implementation.<br>
 ●Ethical Issues: Balances security with ethical considerations.<br>
+
 **Tech Stacks Used:**<br>
+
 ●OpenCV: For facial recognition development with Streamlit for GUI.<br>
 ●Data Storage: Options include Microsoft Excel, MongoDB, or MySQL.<br>
 ●Performance: Standardization is crucial for consistent operation.<br>
